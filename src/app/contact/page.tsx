@@ -38,17 +38,17 @@ export default function ContactPage() {
                 </Button>
                 <p className="text-center text-sm text-muted-foreground pt-4">Or follow us on our social channels:</p>
                 <div className="flex justify-center space-x-4">
-                    <Link href="https://instagram.com" target="_blank">
+                    <Link href="https://www.instagram.com/ak_collections_sathy/" target="_blank">
                         <Button variant="outline" size="icon" aria-label="Instagram">
                             <Instagram className="h-5 w-5"/>
                         </Button>
                     </Link>
-                    <Link href="https://facebook.com" target="_blank">
+                    <Link href="https://www.facebook.com/share/1ABedny5iQ/" target="_blank">
                         <Button variant="outline" size="icon" aria-label="Facebook">
                             <Facebook className="h-5 w-5"/>
                         </Button>
                     </Link>
-                    <Link href="https://twitter.com" target="_blank">
+                    <Link href="https://x.com/akcollections36" target="_blank">
                         <Button variant="outline" size="icon" aria-label="Twitter">
                             <Twitter className="h-5 w-5"/>
                         </Button>

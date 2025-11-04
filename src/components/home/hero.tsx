@@ -6,11 +6,11 @@ export function Hero() {
   return (
     <section className="relative h-[60vh] min-h-[400px] w-full">
       <Image
-        src="https://picsum.photos/seed/1/1920/1080"
+        src="https://picsum.photos/seed/26/1920/1080"
         alt="Elegant fashion display"
         fill
         className="object-cover"
-        data-ai-hint="fashion store"
+        data-ai-hint="fashion runway"
         priority
       />
       <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/30 to-transparent" />

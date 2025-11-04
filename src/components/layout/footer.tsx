@@ -25,17 +25,17 @@ export function Footer() {
                     <WhatsAppIcon className="h-5 w-5 fill-current"/>
                 </Button>
             </Link>
-            <Link href="https://instagram.com" target="_blank">
+            <Link href="https://www.instagram.com/ak_collections_sathy/" target="_blank">
                 <Button variant="ghost" size="icon" aria-label="Instagram">
                     <Instagram className="h-5 w-5"/>
                 </Button>
             </Link>
-            <Link href="https://facebook.com" target="_blank">
+            <Link href="https://www.facebook.com/share/1ABedny5iQ/" target="_blank">
                  <Button variant="ghost" size="icon" aria-label="Facebook">
                     <Facebook className="h-5 w-5"/>
                 </Button>
             </Link>
-            <Link href="https://twitter.com" target="_blank">
+            <Link href="https://x.com/akcollections36" target="_blank">
                 <Button variant="ghost" size="icon" aria-label="Twitter">
                     <Twitter className="h-5 w-5"/>
                 </Button>
