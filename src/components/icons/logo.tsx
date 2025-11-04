@@ -3,7 +3,7 @@ import { cn } from "@/lib/utils";
 export function Logo({ className }: { className?: string }) {
   return (
     <div className={cn("inline-flex items-center gap-2", className)}>
-       <svg
+      <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 24 24"
         fill="none"
@@ -13,12 +13,12 @@ export function Logo({ className }: { className?: string }) {
         strokeLinejoin="round"
         className="h-8 w-8 text-primary"
       >
-        <path d="M6 10v2a6 6 0 0 0 12 0v-2" />
-        <path d="M14.5 9.5a2.5 2.5 0 0 1-5 0" />
-        <path d="M6 9.5V6a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v3.5" />
-        <path d="M9.5 16.5a2.5 2.5 0 0 1 5 0" />
-        <path d="M12 21a2.5 2.5 0 0 1-2.5-2.5" />
-        <path d="M14.5 18.5a2.5 2.5 0 0 1-5 0" />
+        <path d="M6,10 C6,7 8,5 12,5 C16,5 18,7 18,10" />
+        <path d="M3.5 10H20.5" />
+        <path d="M8 10.5 C5 11, 5, 14, 8, 14" />
+        <path d="M16 10.5 C19 11, 19, 14, 16, 14" />
+        <path d="M8 14H16" />
+        <path d="M11.2,8.3 Q12,7.5 12.8,8.3 T14.2,9.5 Q12,11.5 9.8,9.5 T11.2,8.3 Z" fill="currentColor" strokeWidth="0.5"/>
       </svg>
       <span
         className={cn(
