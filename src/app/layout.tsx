@@ -17,7 +17,7 @@ const fontSerif = DM_Serif_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Crtuu eCommerce',
+  title: 'AK Collections',
   description: 'A new wave of eCommerce.',
   manifest: '/manifest.json',
 };

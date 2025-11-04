@@ -25,7 +25,7 @@ export function Logo({ className }: { className?: string }) {
           "font-headline text-2xl font-bold tracking-tight text-primary"
         )}
       >
-        Crtuu
+        AK Collections
       </span>
     </div>
   );

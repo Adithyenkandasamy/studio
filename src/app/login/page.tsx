@@ -28,7 +28,7 @@ export default function LoginPage() {
 
   const onSubmit = (values: z.infer<typeof loginSchema>) => {
     // In a real app, you'd use Firebase Auth here.
-    if (values.email === "admin@crtuu.com" && values.password === "password") {
+    if (values.email === "admin@akcollections.com" && values.password === "password") {
       toast({
         title: "Login Successful",
         description: "Redirecting to admin dashboard...",
@@ -80,7 +80,7 @@ export default function LoginPage() {
           </form>
             <div className="text-center text-sm">
                 <p className="text-muted-foreground">Demo credentials:</p>
-                <p>Email: admin@crtuu.com</p>
+                <p>Email: admin@akcollections.com</p>
                 <p>Password: password</p>
             </div>
         </div>

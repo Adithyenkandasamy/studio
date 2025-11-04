@@ -50,7 +50,7 @@ const prompt = ai.definePrompt({
   name: 'aiProductRecommendationsPrompt',
   input: {schema: AIProductRecommendationsInputSchema},
   output: {schema: AIProductRecommendationsOutputSchema},
-  prompt: `You are an AI assistant helping users discover new products in a fashion retail store called Crtuu eCommerce.
+  prompt: `You are an AI assistant helping users discover new products in a fashion retail store called AK Collections.
 
   The store specializes in the following:
   * For Girls: Only formal dresses — office wear, elegant skirts, and blazers.
@@ -58,7 +58,7 @@ const prompt = ai.definePrompt({
 
   Based on the user's current cart items and recently viewed products, suggest other relevant products that they might be interested in. The design must look classy, clean, and elegant, matching luxury “old money” aesthetics (white, beige, black, navy blue, gold highlights).
   Take into account user preferences and current fashion trends.
-  If the user has an empty cart and no recently viewed items, suggest top picks and new arrivals from Crtuu eCommerce.
+  If the user has an empty cart and no recently viewed items, suggest top picks and new arrivals from AK Collections.
 
   Current Cart Items:
   {{#if cartItems}}
