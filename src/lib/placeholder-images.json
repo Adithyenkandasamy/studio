@@ -1,3 +1,142 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-banner",
+      "description": "Elegant hero banner for AK Collections",
+      "imageUrl": "https://images.unsplash.com/photo-1603400521630-9f2de124b33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmYXNoaW9uJTIwc3RvcmV8ZW58MHx8fHwxNzYyMTk4MjI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion store"
+    },
+    {
+      "id": "category-girls",
+      "description": "Category image for Girls' Formal wear",
+      "imageUrl": "https://images.unsplash.com/photo-1672641654698-382639a06e54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmb3JtYWwlMjBkcmVzc3xlbnwwfHx8fDE3NjIyMzI0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "formal dress"
+    },
+    {
+      "id": "category-men",
+      "description": "Category image for Men's Old Money style",
+      "imageUrl": "https://images.unsplash.com/photo-1618886614638-80e3c103d31a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZW4lMjBzdWl0fGVufDB8fHx8MTc2MjE1ODE4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "men suit"
+    },
+    {
+      "id": "category-accessories",
+      "description": "Category image for Accessories",
+      "imageUrl": "https://images.unsplash.com/photo-1600003014755-ba31aa59c4b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsdXh1cnklMjB3YXRjaHxlbnwwfHx8fDE3NjIxNTg5MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury watch"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Avatar for a testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1614283233556-f35b0c801ef1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MjE1NDMxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Avatar for a testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1636377985931-898218afd306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIyMjQ5MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Avatar for a testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwc21pbGluZ3xlbnwwfHx8fDE3NjIxNjQ1ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "product-shirt-1",
+      "description": "Classic White Formal Shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aGl0ZSUyMHNoaXJ0fGVufDB8fHx8MTc2MjEyODU5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white shirt"
+    },
+    {
+      "id": "product-shirt-2",
+      "description": "Navy Blue Business Shirt",
+      "imageUrl": "https://images.unsplash.com/photo-1616699407153-f03d1bb9bfc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxibHVlJTIwc2hpcnR8ZW58MHx8fHwxNzYyMTQ1NDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue shirt"
+    },
+    {
+      "id": "product-trousers-1",
+      "description": "Beige Chino Trousers",
+      "imageUrl": "https://images.unsplash.com/photo-1614676498010-8b7ead323f1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiZWlnZSUyMHRyb3VzZXJzfGVufDB8fHx8MTc2MjE1NzQwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beige trousers"
+    },
+    {
+      "id": "product-suit-1",
+      "description": "Classic Black Suit",
+      "imageUrl": "https://images.unsplash.com/photo-1522968439036-e6338d0ed84f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxibGFjayUyMHN1aXR8ZW58MHx8fHwxNzYyMTI4NTk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "black suit"
+    },
+    {
+      "id": "product-dress-1",
+      "description": "Elegant Black Blazer Dress",
+      "imageUrl": "https://images.unsplash.com/photo-1703001523704-e6a9d32b3067?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxibGF6ZXIlMjBkcmVzc3xlbnwwfHx8fDE3NjIyMzI0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blazer dress"
+    },
+    {
+      "id": "product-dress-2",
+      "description": "White Office Sheath Dress",
+      "imageUrl": "https://images.unsplash.com/photo-1553076699-6b6250481bd1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx3aGl0ZSUyMGRyZXNzfGVufDB8fHx8MTc2MjE3MDE4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "white dress"
+    },
+    {
+      "id": "product-skirt-1",
+      "description": "Navy Pencil Skirt",
+      "imageUrl": "https://images.unsplash.com/photo-1704775986647-b2fd38120e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZW5jaWwlMjBza2lydHxlbnwwfHx8fDE3NjIxNzM1OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pencil skirt"
+    },
+    {
+      "id": "product-watch-1",
+      "description": "Gold and Black Chronograph Watch",
+      "imageUrl": "https://images.unsplash.com/photo-1751437761644-460ae92e34c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnb2xkJTIwd2F0Y2h8ZW58MHx8fHwxNzYyMjMyNDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gold watch"
+    },
+    {
+      "id": "product-shoes-1",
+      "description": "Leather Oxford Shoes",
+      "imageUrl": "https://images.unsplash.com/photo-1673332655640-d97338b1c6b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGVhdGhlciUyMHNob2VzfGVufDB8fHx8MTc2MjIzMjQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "leather shoes"
+    },
+    {
+      "id": "product-blazer-1",
+      "description": "Women's Beige Blazer",
+      "imageUrl": "https://images.unsplash.com/photo-1697663426729-d9ff755ba4ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8d29tYW4lMjBibGF6ZXJ8ZW58MHx8fHwxNzYyMjI5MzM3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman blazer"
+    },
+    {
+      "id": "product-shirt-gallery-1",
+      "description": "Classic White Formal Shirt detail",
+      "imageUrl": "https://images.unsplash.com/photo-1645859610425-f0f4177df5f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZmFicmljJTIwdGV4dHVyZXxlbnwwfHx8fDE3NjIyMDYyMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fabric texture"
+    },
+    {
+      "id": "product-shirt-gallery-2",
+      "description": "Classic White Formal Shirt lifestyle",
+      "imageUrl": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtYW4lMjB3ZWFyaW5nfGVufDB8fHx8MTc2MjIzMjQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man wearing"
+    },
+    {
+      "id": "product-shirt-gallery-3",
+      "description": "Classic White Formal Shirt collar",
+      "imageUrl": "https://images.unsplash.com/photo-1602810318660-d2c46b750f88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzaGlydCUyMGNvbGxhcnxlbnwwfHx8fDE3NjIyMzI0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shirt collar"
+    },
+    {
+      "id": "about-us",
+      "description": "Image for the about us page",
+      "imageUrl": "https://images.unsplash.com/photo-1657815929003-b97cc426cb3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmYXNoaW9uJTIwZGVzaWduZXJ8ZW58MHx8fHwxNzYyMjMyNDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion designer"
+    },
+    {
+      "id": "contact-map",
+      "description": "Placeholder for Google Map",
+      "imageUrl": "https://images.unsplash.com/photo-1717343824623-06293a62a70d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2MjE0Njc2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    },
+    {
+      "id": "login-bg",
+      "description": "Background for login page",
+      "imageUrl": "https://images.unsplash.com/photo-1713513869691-ba948ece7641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdG9yZSUyMGludGVyaW9yfGVufDB8fHx8MTc2MjIxMjczOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "store interior"
+    }
+  ]
 }
