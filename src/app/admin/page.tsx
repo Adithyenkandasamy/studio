@@ -17,10 +17,10 @@ import {
 
 // Mock data for orders
 const mockOrders = [
-  { id: 'ORD001', customerName: 'John Doe', date: '2023-11-23', status: 'Delivered', totalPrice: 2598 },
-  { id: 'ORD002', customerName: 'Jane Smith', date: '2023-11-24', status: 'Shipped', totalPrice: 3499 },
-  { id: 'ORD003', customerName: 'Robert Johnson', date: '2023-11-25', status: 'Pending', totalPrice: 8999 },
-  { id: 'ORD004', customerName: 'Emily Davis', date: '2023-11-26', status: 'Delivered', totalPrice: 1899 },
+  { id: 'ORD001', customerName: 'John Doe', date: '2023-11-23', status: 'Delivered', totalPrice: 1500 },
+  { id: 'ORD002', customerName: 'Jane Smith', date: '2023-11-24', status: 'Shipped', totalPrice: 2000 },
+  { id: 'ORD003', customerName: 'Robert Johnson', date: '2023-11-25', status: 'Pending', totalPrice: 5000 },
+  { id: 'ORD004', customerName: 'Emily Davis', date: '2023-11-26', status: 'Delivered', totalPrice: 1800 },
 ];
 
 export default function AdminDashboard() {
