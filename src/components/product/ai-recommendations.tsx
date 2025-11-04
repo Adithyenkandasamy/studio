@@ -63,7 +63,7 @@ export async function AIRecommendations({ currentProduct }: AIRecommendationsPro
                                 <ProductCard product={product} />
                             </CardContent>
                             <CardFooter className="p-4 bg-secondary">
-                                <p className="text-sm text-secondary-foreground italic">
+                                <p className="text-sm text-secondary-foreground">
                                     <strong>Why we suggest it:</strong> {product.reason}
                                 </p>
                             </CardFooter>

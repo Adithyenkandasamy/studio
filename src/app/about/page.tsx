@@ -9,7 +9,7 @@ export default function AboutPage() {
       <main className="flex-grow">
         <div className="container py-16 sm:py-24">
           <div className="text-center">
-            <h1 className="font-headline text-5xl font-bold">About AK Collections</h1>
+            <h1 className="font-headline text-5xl font-bold">About Crtuu eCommerce</h1>
             <p className="mt-4 max-w-2xl mx-auto text-lg text-muted-foreground">
               The story behind our passion for timeless fashion.
             </p>
@@ -18,7 +18,7 @@ export default function AboutPage() {
             <div className="overflow-hidden rounded-lg">
               <Image
                 src="https://picsum.photos/seed/23/1200/800"
-                alt="Founder Adithyen"
+                alt="Founder"
                 width={600}
                 height={400}
                 className="w-full object-cover"
@@ -31,10 +31,10 @@ export default function AboutPage() {
                 “To bring timeless elegance and premium formal fashion to everyone.”
               </p>
               <p>
-                Founded by <span className="font-semibold text-primary">Adithyen</span>, AK Collections was born from a desire to make high-quality, elegant formal wear accessible. We believe that true style is timeless, and our collections are curated to reflect a sophisticated aesthetic that transcends fleeting trends.
+                Crtuu eCommerce was born from a desire to make high-quality, elegant formal wear accessible. We believe that true style is timeless, and our collections are curated to reflect a sophisticated aesthetic that transcends fleeting trends.
               </p>
               <p>
-                Each piece in our collection is crafted with meticulous attention to detail, using only the finest materials. We cater to the discerning individual who values quality, craftsmanship, and a polished, confident look. From the boardroom to formal events, AK Collections provides the perfect ensemble for every significant moment.
+                Each piece in our collection is crafted with meticulous attention to detail, using only the finest materials. We cater to the discerning individual who values quality, craftsmanship, and a polished, confident look. From the boardroom to formal events, Crtuu eCommerce provides the perfect ensemble for every significant moment.
               </p>
             </div>
           </div>

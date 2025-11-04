@@ -4,8 +4,8 @@ import { Toaster } from '@/components/ui/toaster';
 import { CartProvider } from '@/context/cart-context';
 
 export const metadata: Metadata = {
-  title: 'AK Collections',
-  description: 'Timeless Formal Elegance.',
+  title: 'Crtuu eCommerce',
+  description: 'A new wave of eCommerce.',
   manifest: '/manifest.json',
 };
 
@@ -19,7 +19,7 @@ export default function RootLayout({
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700&family=PT+Sans:wght@400;700&display=swap" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css2?family=VT323&family=Press+Start+2P&display=swap" rel="stylesheet" />
       </head>
       <body className="font-body antialiased">
         <CartProvider>

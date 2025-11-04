@@ -28,7 +28,7 @@ export default function LoginPage() {
 
   const onSubmit = (values: z.infer<typeof loginSchema>) => {
     // In a real app, you'd use Firebase Auth here.
-    if (values.email === "admin@akcollections.com" && values.password === "password") {
+    if (values.email === "admin@crtuu.com" && values.password === "password") {
       toast({
         title: "Login Successful",
         description: "Redirecting to admin dashboard...",
@@ -50,7 +50,7 @@ export default function LoginPage() {
       <div className="flex items-center justify-center py-12">
         <div className="mx-auto grid w-[350px] gap-6">
           <div className="grid gap-2 text-center">
-            <Logo className="mx-auto text-3xl" />
+            <Logo className="mx-auto" />
             <h1 className="text-3xl font-bold">Admin Login</h1>
             <p className="text-balance text-muted-foreground">
               Enter your credentials to access the dashboard
@@ -80,7 +80,7 @@ export default function LoginPage() {
           </form>
             <div className="text-center text-sm">
                 <p className="text-muted-foreground">Demo credentials:</p>
-                <p>Email: admin@akcollections.com</p>
+                <p>Email: admin@crtuu.com</p>
                 <p>Password: password</p>
             </div>
         </div>
@@ -91,7 +91,7 @@ export default function LoginPage() {
           alt="Image"
           width="1920"
           height="1080"
-          className="h-full w-full object-cover dark:brightness-[0.2] dark:grayscale"
+          className="h-full w-full object-cover"
           data-ai-hint="store interior"
         />
       </div>

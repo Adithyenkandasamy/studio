@@ -16,7 +16,7 @@ export function Footer() {
           <div className="flex flex-col items-center gap-4 md:items-start">
             <Logo />
             <p className="max-w-xs text-center text-sm text-muted-foreground md:text-left">
-              Timeless Formal Elegance.
+              A new wave of eCommerce.
             </p>
           </div>
           <div className="flex items-center space-x-2">
@@ -43,7 +43,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 text-center text-sm text-muted-foreground">
-          © {new Date().getFullYear()} AK Collections. All rights reserved.
+          © {new Date().getFullYear()} Crtuu eCommerce. All rights reserved.
         </div>
       </div>
     </footer>
