@@ -21,7 +21,7 @@ export function FeaturedProducts() {
           ))}
         </div>
         <div className="mt-12 text-center">
-            <Button asChild size="lg" variant="outline">
+            <Button asChild size="lg">
                 <Link href="/shop">View All Products</Link>
             </Button>
         </div>
