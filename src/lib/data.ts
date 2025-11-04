@@ -147,15 +147,15 @@ export const testimonials: Testimonial[] = [
     name: 'David Billa',
     location: 'Coimbatore',
     quote: 'The quality and fit from AK Collections are unmatched. Their formal wear gives me the confidence I need for my corporate career. Truly timeless elegance!',
-    avatarUrl: 'https://picsum.photos/seed/5/100/100',
-    avatarHint: 'woman portrait'
+    avatarUrl: 'https://i.pinimg.com/736x/9b/4f/6a/9b4f6a275665a2bd28497aa720834b03.jpg',
+    avatarHint: 'man portrait'
   },
   {
     id: 'test-2',
     name: 'Mathialagan',
     location: 'Salem',
     quote: 'I\'ve been searching for that perfect "old money" aesthetic, and I found it at AK Collections. The shirts and trousers are exceptional. Highly recommended.',
-    avatarUrl: 'https://picsum.photos/seed/6/100/100',
+    avatarUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw5BIM-rfKNucnRzP9-cWXw1VUzgI-uTvnrA&s`1',
     avatarHint: 'man portrait'
   },
   {

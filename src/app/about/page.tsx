@@ -17,7 +17,7 @@ export default function AboutPage() {
           <div className="mt-16 grid grid-cols-1 items-center gap-12 md:grid-cols-2">
             <div className="overflow-hidden rounded-lg">
               <Image
-                src="https://picsum.photos/seed/23/1200/800"
+                src="/products/dress.jpg"
                 alt="Founder"
                 width={600}
                 height={400}
