@@ -2,7 +2,7 @@ import { getAIProductRecommendations, AIProductRecommendationsOutput } from '@/a
 import { products } from '@/lib/data';
 import type { Product } from '@/lib/types';
 import { ProductCard } from '@/components/shop/product-card';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
 import {
   Carousel,
   CarouselContent,
